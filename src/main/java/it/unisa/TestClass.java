@@ -4,11 +4,11 @@ public class TestClass {
 	
     public static void main (String[] args) {
 		
-    	printHelloWorld();
+    	printHelloWorldMessage();
 
 	}
     
-    public static void printHelloWorld() {
+    public static void printHelloWorldMessage() {
     	System.out.println("Hello World!");
     }
 
