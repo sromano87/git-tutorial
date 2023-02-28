@@ -1,1 +1,3 @@
-# git-tutorial -- This is a tutorial about Git
+# git-tutorial 
+
+This is a tutorial about Git
